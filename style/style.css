@@ -12,9 +12,9 @@
 .banner-element {
     width: 525px;
     text-align: right;
-  position: absolute;
-  top: 220px;
-  left: 700px;
+    position: absolute;
+    top: 220px;
+    right: 150px;
 }
 
 .banner-title {
@@ -22,14 +22,14 @@
     font-size: 55px;
     line-height: 76px;
     margin-bottom: 20px;
-    color: azure;
+    color: #FFFFFF;
 }
 
 .banner-description {
     font-weight: 400;
     font-size: 14px;
     margin-bottom: 20px;
-    color: azure;
+    color: #FFFFFF;
 }
 
 .btn-banner {
@@ -43,7 +43,8 @@
     color: #005FAC;
     background-color: white;
 }
-.banner-img{
+
+.banner-img {
     width: 100%;
     height: auto;
 }
