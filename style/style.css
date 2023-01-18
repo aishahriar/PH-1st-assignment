@@ -198,7 +198,7 @@
 }
 .future-title{
     font-weight: 500;
-    font-size: 45px;
+    font-size: 40px;
     color: #F8F8F8;
     margin-bottom: 10px;
 }
@@ -209,6 +209,7 @@
     color: #FFFFFF;
 }
 .future-images{
+    margin-top: 25px;
     display: flex;
     gap: 20px;
     height: 30px;
