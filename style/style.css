@@ -22,12 +22,14 @@
     font-size: 55px;
     line-height: 76px;
     margin-bottom: 20px;
+    color: azure;
 }
 
 .banner-description {
     font-weight: 400;
     font-size: 14px;
     margin-bottom: 20px;
+    color: azure;
 }
 
 .btn-banner {
@@ -40,4 +42,8 @@
     border-radius: 10px;
     color: #005FAC;
     background-color: white;
+}
+.banner-img{
+    width: 100%;
+    height: auto;
 }
