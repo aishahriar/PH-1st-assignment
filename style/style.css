@@ -89,3 +89,151 @@
     margin-bottom: 10px;
     color: #444343;
 }
+
+/* plans Section */
+.plans {
+    padding: 30px;
+    margin-top: 70px;
+}
+
+.plans-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 70px;
+    color: #151414;
+}
+
+.plan-all {
+    display: flex;
+    justify-content: space-around;
+    gap: 70px;
+}
+
+.plans-element {
+    text-align: center;
+}
+
+.plan-elemnt-title {
+    font-weight: 700;
+    font-size: 24px;
+    color: #151414;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.plan-element-description {
+    font-weight: 500;
+    font-size: 18px;
+    color: #737272;
+}
+
+.plans-image {
+    height: 80px;
+    width: auto;
+}
+
+
+/* call Section */
+.call {
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+.call-item {
+    position: relative;
+}
+
+.w-image {
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
+
+.w-gradiente {
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
+
+.call-element {
+    position: absolute;
+    top: 70px;
+    left: 50px;
+}
+
+.call-title {
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 35px;
+    color: #FFFFFF;
+}
+
+.btn-call {
+    padding: 15px;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    color: #005FAC;
+    background-color: white;
+}
+/* footer Section */
+.footer{
+    margin-top: 460px;
+    height: 500px;
+    background: #151414;
+}
+.footer-element{
+    margin-top: 200px;
+    display: flex;
+    gap: 250px;
+    justify-content: space-around;
+    margin: 0 200px;
+}
+.future{
+    margin-top: 100px;
+}
+.future-title{
+    font-weight: 500;
+    font-size: 45px;
+    color: #F8F8F8;
+    margin-bottom: 10px;
+}
+.future-description{
+    margin-bottom: 10px;
+    font-weight: 300;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.future-images{
+    display: flex;
+    gap: 20px;
+    height: 30px;
+    width: auto;
+}
+.btn-subscribe{
+    padding: 15px;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color:  #005FAC;
+}
+.sub-input{
+height: 18px;
+border: 2px solid red;
+border-radius: 8px;
+background-color: #1f1f1f;
+color: #FFFFFF;
+
+}
+.contact input[type="text"],input[type="email"], textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px  30px;
+}
